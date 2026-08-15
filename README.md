@@ -5,14 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=7F7FD5&center=true&vCenter=true&width=650&lines=写代码；做设计；不断学习" alt="Typing" />
   </p>
 
-  <!-- 徽章 -->
-  <p align="center">
-    <a href="https://your-website.example"><img src="https://img.shields.io/badge/Website-博客-blue" alt="Website" /></a>&emsp;
-    <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-推特-blue" alt="Twitter" /></a>&emsp;
-    <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-哔哩-ff69b4" alt="Bilibili" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=julyfir&label=Views&color=0e75b6&style=flat" alt="访客数" />
-  </p>
-
 </div>
 
 ---
